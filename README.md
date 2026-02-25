@@ -1,11 +1,11 @@
 # 💫 About Me:
-
-🔭 I’m currently working on building impactful software solutions using Python, with a strong focus on real-world problem solving and scalable systems.
-🤝 I’m looking to collaborate on open source projects, AI/ML tools, developer platforms, and innovative hackathon ideas that create meaningful impact.
-🛠 I’m looking for help with exploring advanced system design, production-grade deployments, and cutting-edge AI integrations.
-🌱 I’m currently learning more about distributed systems, cloud infrastructure, and building intelligent applications.
-💬 Ask me about Python development, rapid prototyping, hackathon strategies, and turning ideas into working products fast.
-⚡ Fun fact: I thrive under hackathon pressure — turning coffee and ideas into winning prototypes (multiple hackathon wins 🏆).
+<br><br>
+🔭 I’m currently working on building impactful software solutions using Python, with a strong focus on real-world problem solving and scalable systems.<br><br>
+🤝 I’m looking to collaborate on open source projects, AI/ML tools, developer platforms, and innovative hackathon ideas that create meaningful impact.<br><br>
+🛠 I’m looking for help with exploring advanced system design, production-grade deployments, and cutting-edge AI integrations.<br><br>
+🌱 I’m currently learning more about distributed systems, cloud infrastructure, and building intelligent applications.<br><br>
+💬 Ask me about Python development, rapid prototyping, hackathon strategies, and turning ideas into working products fast.<br><br>
+⚡ Fun fact: I thrive under hackathon pressure — turning coffee and ideas into winning prototypes (multiple hackathon wins 🏆).<br><br>
 
 
 
