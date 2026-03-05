@@ -1,14 +1,5 @@
-# 💫 About Me:
-<br><br>
-🔭 I’m currently working on building impactful software solutions using Python, with a strong focus on real-world problem solving and scalable systems.<br><br>
-🤝 I’m looking to collaborate on open source projects, AI/ML tools, developer platforms, and innovative hackathon ideas that create meaningful impact.<br><br>
-🛠 I’m looking for help with exploring advanced system design, production-grade deployments, and cutting-edge AI integrations.<br><br>
-🌱 I’m currently learning more about distributed systems, cloud infrastructure, and building intelligent applications.<br><br>
-💬 Ask me about Python development, rapid prototyping, hackathon strategies, and turning ideas into working products fast.<br><br>
-⚡ Fun fact: I thrive under hackathon pressure — turning coffee and ideas into winning prototypes (multiple hackathon wins 🏆).<br><br>
-
-
-
+Python developer focused on building scalable, real-world solutions.
+Passionate about turning ideas into fast prototypes and hackathon projects.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadir_arfath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadir-arfath-b59107355) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadir2016@gmail.com) 
 
